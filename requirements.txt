@@ -2,3 +2,6 @@ streamLit
 pandas
 numpy
 scikit-learn
+seaborn
+matplotlib
+plotly
