@@ -3,8 +3,8 @@ import numpy as np
 import streamlit as st
 import joblib
 
-lr = joblib.load("C:\\ML\\own_done_laptop_lr.joblib")
-one = joblib.load("C:\\ML\\own_done_laptop_one.joblib")
+lr = joblib.load("own_done_laptop_lr.joblib")
+one = joblib.load("own_done_laptop_one.joblib")
 
 st.title("Laptop Price Prediction app")
 
