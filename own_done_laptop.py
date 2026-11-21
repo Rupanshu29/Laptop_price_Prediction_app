@@ -18,7 +18,7 @@ from sklearn.linear_model import LinearRegression, Ridge, Lasso
 from sklearn.metrics import mean_squared_error, root_mean_squared_error, r2_score
 import joblib
 
-df = pd.read_csv("C:\\Users\\Roop\\Downloads\\Laptop_price.csv")
+df = pd.read_csv("Laptop_price.csv")
 
 df.head()
 
