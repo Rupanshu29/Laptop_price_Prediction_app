@@ -21,7 +21,7 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn.ensemble import RandomForestRegressor
 import joblib
 
-df = pd.read_csv("C:\\Users\\Roop\\Downloads\\Laptop_price.csv")
+df = pd.read_csv("Laptop_price.csv")
 
 df.head()
 
